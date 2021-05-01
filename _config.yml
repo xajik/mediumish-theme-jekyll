@@ -1,7 +1,7 @@
 # Site
 name: "Igor Steblii"
 title: "Igor Steblii"
-description: "Igor Steblii personal space"
+description: "Personal space"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
